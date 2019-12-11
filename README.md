@@ -3,6 +3,10 @@ This is the project of the Student Research Group of  the Artificial Intelligenc
 
 ## RESEARCH
 
+Wylistujmy tu sobie informacje i wiedzę z podziałem na rodzaje źródeł: paper, github, youtube, blog, książka itp. Ktoś mógłby się zająć utrzymaniem porządku w tym pliku. Może jakiś arkusz kalkulacyjny się przyda... coś wymyślimy :) 
+
+
+
 
 
 
